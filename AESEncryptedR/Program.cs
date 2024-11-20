@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Linq;
-using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Reflection;
-using System.IO;
 
 namespace AESEncryptedR
 {

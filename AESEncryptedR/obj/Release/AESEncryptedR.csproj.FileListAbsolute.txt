@@ -1,0 +1,7 @@
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\bin\Release\AESEncryptedR.exe.config
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\bin\Release\AESEncryptedR.exe
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\bin\Release\AESEncryptedR.pdb
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\obj\Release\AESEncryptedR.csproj.AssemblyReference.cache
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\obj\Release\AESEncryptedR.csproj.CoreCompileInputs.cache
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\obj\Release\AESEncryptedR.exe
+C:\Users\ShiguruiMuerto\Documents\Ignore\win11_backup\source\repos\AESEncryptedR\AESEncryptedR\obj\Release\AESEncryptedR.pdb

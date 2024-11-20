@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShiguruiMuerto\\Documents\\Ignore\\win11_backup\\source\\repos\\AESEncryptedR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F425D834-DE63-4949-A830-F4BC83392673}|AESEncryptedR\\AESEncryptedR.csproj|c:\\users\\shiguruimuerto\\documents\\ignore\\win11_backup\\source\\repos\\aesencryptedr\\aesencryptedr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F425D834-DE63-4949-A830-F4BC83392673}|AESEncryptedR\\AESEncryptedR.csproj|solutionrelative:aesencryptedr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShiguruiMuerto\\Documents\\Ignore\\win11_backup\\source\\repos\\AESEncryptedR\\AESEncryptedR\\Program.cs",
+              "RelativeDocumentMoniker": "AESEncryptedR\\Program.cs",
+              "ToolTip": "C:\\Users\\ShiguruiMuerto\\Documents\\Ignore\\win11_backup\\source\\repos\\AESEncryptedR\\AESEncryptedR\\Program.cs",
+              "RelativeToolTip": "AESEncryptedR\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:03:35.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
